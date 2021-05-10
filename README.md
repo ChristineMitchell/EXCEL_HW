@@ -2,7 +2,7 @@
 Kickstart Campaign for Theaters/Play Analysis
 
 ## Overview of Project
-Louise wanted to produce her play, Fever. Unfortunately, she did not have enough funds to produce it, so she decided to launch a kickstart campaign for her play. Kickstarter campaigns are like a GoFundMe account, but instead of funding individuals, it is set up to accept donations to fund projects. Louise set up her account on June 13, 2016, 28 days ahead of her deadline and unfortunately, only reached 85% of her funding goal. Hence, she did not have a successful campaign. So, she now wants to research how other theater kickstarters fared in their funding goals and how that they did so in relation to their launch dates. 
+Louise wanted to produce her play, Fever. Unfortunately, she did not have enough funds to produce it, so she decided to launch a kickstart campaign for her play. Kickstarter campaigns are like a GoFundMe account, but instead of funding individuals, it is set up to accept donations to fund projects. Louise set up her account on June 13, 2016, 28 days ahead of her deadline and unfortunately, only reached 85% of her funding goal. Hence, she did not have a successful campaign. So, she now wants to research how other theater kickstarters fared in their funding goals and how they did so in relation to their launch dates. 
 ### Purpose
 Provide a visual story and analysis of “outcomes based on their launch dates and funding goals” so that Louise can understand what she could have done differently to reach her funding goals.
 ## Analysis and Challenges
